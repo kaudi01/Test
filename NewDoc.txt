@@ -1,3 +1,5 @@
 This is the first file
 Doing changes 1
 Creating conflict
+conflicts while merging
+
