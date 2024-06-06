@@ -2,4 +2,5 @@ This is the first file
 Doing changes 1
 Creating conflict
 conflicts while merging
+this is the main branch
 
