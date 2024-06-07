@@ -3,3 +3,4 @@ Doing changes 1
 Creating conflict
 conflicts while merging
 
+THIS IS RELEASE BRANCH LOG
