@@ -6,3 +6,5 @@ this is the main branch
 THIS IS RELEASE BRANCH LOG
 creating a line to check rebase
 added the file to check rebase
+
+Adding a new line
