@@ -6,3 +6,6 @@ conflicts while merging
 THIS IS RELEASE BRANCH LOG
 
 creating a line to check rebase
+
+added the file to check rebase
+
